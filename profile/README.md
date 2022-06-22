@@ -1,4 +1,4 @@
-## Welcome to Virtual LaBiOmicS
+### Welcome to Virtual LaBiOmicS
 
 ---
   
