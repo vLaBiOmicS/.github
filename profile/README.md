@@ -2,6 +2,6 @@
 
 ---
   
-![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.JPG)
+![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.png)
 
 ---
